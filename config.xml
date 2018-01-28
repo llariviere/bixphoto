@@ -30,5 +30,5 @@
     </platform>
     <platform name="ios">
     </platform>
-    <plugin name="cordova-plugin-camera" spec="^4.0.1" />
+    <plugin name="cordova-plugin-camera" source="npm" spec="^4.0.1" />
 </widget>
